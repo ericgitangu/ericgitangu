@@ -1,4 +1,4 @@
-# Hi, I'm Eric Gitangu
+# Hi, I'm Eric Gitangu (Deveric)
 
 Senior Software Engineer & Platform Architect — I own architecture and security at Moovn Technologies (a Mastercard partner). 11 years building and operating production systems across fintech, healthcare, energy access, and logistics.
 
